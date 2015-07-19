@@ -3,4 +3,6 @@
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="title_activity_room_selection">RoomSelectionActivity</string>
+    <string name="main_activity_label"> Enter the number of rooms</string>
 </resources>
